@@ -1,10 +1,10 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>Matis Uhl de Morais's Website</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -62,7 +62,7 @@ export default function Home() {
 
       <footer>
         <a href='' target='_blank' rel='noopener noreferrer'>
-          Copyright CSCI 1000 2023
+          Copyright Matis Uhl de Morais 2023
         </a>
       </footer>
 
