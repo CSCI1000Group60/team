@@ -31,7 +31,7 @@ export default function Home() {
 
           <a href='/tom ' className='card'>
             <h3>Cat &rarr;</h3>
-            <p>Click</p>
+            <p>Click to gain more information about a cat</p>
           </a>
 
           <a
