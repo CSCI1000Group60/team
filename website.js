@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+// Hello World
+
 export default function Home() {
   return (
     <div className='container'>
