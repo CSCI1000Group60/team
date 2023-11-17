@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+//adding comment 2
+
 export default function Home() {
   return (
     <div className='container'>
