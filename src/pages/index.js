@@ -29,6 +29,11 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
+          <a href='/Alan2 ' className='card'>
+            <h3>Access Alan2 &rarr;</h3>
+            <p>Click here for more information</p>
+          </a>
+
           <a href='/tom ' className='card'>
             <h3>Cat &rarr;</h3>
             <p>Click to gain more information about a cat</p>
