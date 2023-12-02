@@ -9,9 +9,9 @@ export default function examplePage() {
             <h1 className='title'>Hi, I'm Amir! </h1>
           </div>
           <img
-            className='pic'
+            //className='pic'
             //src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            //alt='tom holland'
           />
 
           <p className='description'>
