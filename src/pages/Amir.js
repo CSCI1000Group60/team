@@ -6,16 +6,22 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hi, I'm Amir </h1>
+            <h1 className='title'>Hi, I'm Amir! </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            //src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
             alt='tom holland'
           />
 
           <p className='description'>
-            This is information about me
+            I am a student here at CU Boulder studying computer science.
+            I was born in Denver, Colorado. But my mom is from Hungary and my dad is from Morocco. 
+            I enjoy going on runs whenever it is nice out and whenever I get the chance to, or 
+            even going out on hikes. I also enjoy spending time with friends and family whenever 
+            I'm not studying and working hard here in Boulder. I am also a lifeguard for the city 
+            of Aurora. Of course since that's quite the drive, I am a seasonal worker for them, so 
+            over the summers I am outside guarding lives at the pools. 
           </p>
 
           <a className='button' href='/'>
