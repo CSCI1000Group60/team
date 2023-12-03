@@ -1,7 +1,4 @@
 export default function examplePage() {
-
-  //push thingy
-
     return (
       <div className='container'>
         <title>Website</title>
@@ -9,18 +6,21 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Alan. </h1>
+            <h1 className='title'>Hey, I'm Alan La </h1>
           </div>
           <img
             className='pic'
             src='https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
-            alt='cat sitting'
+            alt='cat'
           />
 
           <p className='description'>
-            Orange cats are a different breed of cats. They tend to threaten much
-            of humanities sake and without them we would be off better to be
-            honest
+            Hey my name is Alan and I am a Computer Science Major.
+            I have some coding experience but I have been meaning to
+            do a lot more and as of recently I have had time to 
+            practice making some games (with a tutorial).
+            I'm hoping that this will help make things better for myself in learning
+            how to code
           </p>
 
           <a className='button' href='/'>
