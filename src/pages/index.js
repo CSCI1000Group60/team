@@ -1,7 +1,6 @@
 import Head from 'next/head'
 
-//URL to the page
-//https://lucent-lolly-35feb4.netlify.app/
+//adding comment 2
 
 export default function Home() {
   return (
@@ -30,14 +29,9 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
-          <a href='/Alan2 ' className='card'>
-            <h3>Alan's Page &rarr;</h3>
-            <p>Click here for more information about Alan</p>
-          </a>
-
           <a href='/tom ' className='card'>
             <h3>Cat &rarr;</h3>
-            <p>Click to gain more information about a cat</p>
+            <p>Click</p>
           </a>
 
           <a

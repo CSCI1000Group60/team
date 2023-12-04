@@ -13,14 +13,12 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
-            alt='cat sitting'
+            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            alt='tom holland'
           />
 
           <p className='description'>
-            Orange cats are a different breed of cats. They tend to threaten much
-            of humanities sake and without them we would be off better to be
-            honest
+            Meow meow meow
           </p>
 
           <a className='button' href='/'>
